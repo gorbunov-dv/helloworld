@@ -1,1 +1,5 @@
-document.write("Hello");
+$(function(){
+    $('#name').keyup(function(){
+        $('#greet').text('Hello ' + $('#name').val());
+    })
+})
