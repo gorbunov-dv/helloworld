@@ -1,0 +1,19 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Chrome Extension Hello World",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gorbunov-dv/helloworld.git"
+  },
+  "author": "Gorbunov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gorbunov-dv/helloworld/issues"
+  },
+  "homepage": "https://github.com/gorbunov-dv/helloworld#readme"
+}
